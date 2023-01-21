@@ -1,2 +1,1 @@
-# prepcourse
-este es un repositorio de prueba 
+este proyeco es un prueba de como crear un repositorio
